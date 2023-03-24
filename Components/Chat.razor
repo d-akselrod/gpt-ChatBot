@@ -1,0 +1,25 @@
+<input type="text" class="form-control" @bind="Prompt" />
+<button class="btn btn-primary" @onclick="HandleSubmit">Submit</button>
+
+@if (!string.IsNullOrEmpty(Response))
+{
+    <div class="alert alert-info">@Response</div>
+}
+
+@code {
+    private string? Prompt { get; set; }
+    private string? Response { get; set; }
+    private readonly ChatAPI chatAPI;
+
+    public Chat()
+    {
+        chatAPI = new ChatAPI("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");
+    }
+
+    private async Task HandleSubmit()
+    {
+        //Response = "Unlucky tbh";
+        Response = await chatAPI.SendMessageAndGetResponse(Prompt);     
+        Prompt = "";
+    }
+}
