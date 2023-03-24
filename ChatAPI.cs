@@ -36,7 +36,7 @@ public class ChatAPI
 
             if (!response.IsSuccessStatusCode)
             {
-                return "you suck";
+                return _apiKey;
                 throw new Exception($"Failed to get response from OpenAI API. Status code: {response.StatusCode}");
             }
 
