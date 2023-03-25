@@ -73,6 +73,7 @@
 
         prompts.Add(prompt);
         messages.Add(prompt);
+        prompt = "";
 
         <!--response = await chatAPI.SendMessageAndGetResponse(prompt); -->
         await Task.Delay(1000);
@@ -83,7 +84,6 @@
         
         response = "My default response";
         
-        prompt = "";
         busy = false;
     }
 }

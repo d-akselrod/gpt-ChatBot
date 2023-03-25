@@ -95,8 +95,7 @@
     animation-name: fade-in-b-90aeoa6tdr;
     animation-duration: 1s;
 
-    max-width: 90%;
-    word-break: break-all;
+    max-width: 100%;
 
     display: flex;
     align-items: center;
@@ -107,6 +106,7 @@
 .message p[b-90aeoa6tdr]
 {
     margin-left: 10px;
+    overflow-wrap: break-word;
 }
 
 .message img[b-90aeoa6tdr]
