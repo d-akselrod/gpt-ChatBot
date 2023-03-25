@@ -1,23 +1,20 @@
 /* /Components/Chat.razor.rz.scp.css */
-.text-box[b-g2u26st57i] {
-    text-overflow:ellipsis;
+/*.text-box {
     width: 50%;
-    max-height: 200px;
-    min-height: 50px;
-    border: 2px;
+    padding: 5px;
+    border: 2px solid;
     border-color: black;
-    border-radius: 20px;
-    font-size: 16px;
-    color: #444444;
-    background-color: skyblue;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+    background-color: white;
     position: fixed;
     bottom: 100px;
     left: 50%;
     transform: translateX(-50%);
-    overflow: auto;
 }
 
-.submit-btn[b-g2u26st57i] {
+.submit-btn {
     width: 5%;
     padding: 10px 20px;
     border: none;
@@ -30,7 +27,137 @@
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
-}    
-.submit-btn:hover[b-g2u26st57i] {
+}
+
+.submit-btn:hover {
         background-color: #0073e6;
     }
+*/
+
+#User-Input[b-90aeoa6tdr]
+{
+    margin: 0%;
+    width: 50%;
+    padding: 5px;
+    border: 5px solid;
+    border-color: black;
+    border-style: outset;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+    background-color: transparent;
+    position: fixed;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+#User-Input input[b-90aeoa6tdr]
+{
+    width: 98%;
+    background-color: transparent;
+    border: none;
+    margin: 0px;
+    margin: 0%;
+}
+
+#User-Input input:hover[b-90aeoa6tdr]
+{
+    cursor:text;
+}
+
+#User-Input input:focus[b-90aeoa6tdr]
+{
+    border: none;
+    outline: none;
+}
+
+#User-Input button[b-90aeoa6tdr]
+{
+    text-align: center;
+    border-style: outset;
+    border-radius: 4px;
+    background-color: gray;
+    color: black;
+}
+
+#User-Input button:hover[b-90aeoa6tdr]
+{
+    background-color: white;
+    border-style: inset;
+    cursor:auto;
+}
+
+.message[b-90aeoa6tdr]
+{
+    font-family: "Comfortaa";
+    text-align: left;
+    animation-name: fade-in-b-90aeoa6tdr;
+    animation-duration: 1s;
+
+    max-width: 90%;
+    word-break: break-all;
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.message p[b-90aeoa6tdr]
+{
+    margin-left: 10px;
+}
+
+.message img[b-90aeoa6tdr]
+{
+    margin-left: 5px;
+    float:left;
+    height: auto;
+
+    width: 20px;
+    height: 20px;
+}
+
+.message.prompt[b-90aeoa6tdr]
+{
+    background-color: rgb(211, 211, 211);
+}
+
+.message.response[b-90aeoa6tdr]
+{
+    background-color: rgb(233,233,233);
+}
+
+@keyframes fade-in-b-90aeoa6tdr
+{
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+#messages[b-90aeoa6tdr]
+{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    max-height: 400px;
+    overflow-y: scroll;
+    scrollbar-color: black;   
+    display: flex;
+    flex-direction: column; 
+}
+
+#messages:empty[b-90aeoa6tdr]
+{
+    visibility: hidden;
+}
+
+#chat[b-90aeoa6tdr]
+{
+    height: 100%;
+    width: 100%;
+    background-color: radial-gradient(circle, white, lightblue, white);  
+}
+/* /Pages/Index.razor.rz.scp.css */

@@ -841,16 +841,11 @@ C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBo
 C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/build-gz/Uw5BsSsw.gz
 C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/scopedcss/Components/Chat.razor.rz.scp.css
 C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/scopedcss/projectbundle/ChatBot.bundle.scp.css
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.csproj.AssemblyReference.cache
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.GeneratedMSBuildEditorConfig.editorconfig
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.AssemblyInfoInputs.cache
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.AssemblyInfo.cs
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.csproj.CoreCompileInputs.cache
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.MvcApplicationPartsAssemblyInfo.cache
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.dll
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/refint/ChatBot.dll
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.pdb
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/blazor.boot.json
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/ChatBot.dll
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/ChatBot.pdb
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.4.asowo7u2f2.js
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/dotnet.timezones.blat
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/dotnet.wasm
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/icudt_CJK.dat
@@ -1052,10 +1047,6 @@ C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBo
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XPath.dll
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/WindowsBase.dll
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/blazor.boot.json
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/ChatBot.dll
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/ChatBot.pdb
-/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.4.asowo7u2f2.js
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/System.Net.WebClient.dll.gz
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
@@ -1466,6 +1457,12 @@ C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBo
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/icudt_CJK.dat
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/icudt_EFIGS.dat
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/bin/Debug/net7.0/icudt_no_CJK.dat
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.csproj.AssemblyReference.cache
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.AssemblyInfoInputs.cache
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.AssemblyInfo.cs
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.csproj.CoreCompileInputs.cache
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.MvcApplicationPartsAssemblyInfo.cache
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/build-gz/0ghcUinN.gz
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/build-gz/drI80yyR.gz
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/build-gz/hIcPBBdk.gz
@@ -1680,7 +1677,11 @@ C:/Users/Dakse/OneDrive - McMaster University/Portfolio/Projects/Chat Bot/ChatBo
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/staticwebassets.build.json
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/staticwebassets.development.json
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/scopedcss/Components/Chat.razor.rz.scp.css
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/scopedcss/bundle/ChatBot.styles.css
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/scopedcss/projectbundle/ChatBot.bundle.scp.css
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.csproj.CopyComplete
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.dll
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/refint/ChatBot.dll
+/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ChatBot.pdb
 /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/obj/Debug/net7.0/ref/ChatBot.dll

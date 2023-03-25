@@ -1,19 +1,16 @@
-.text-box {
-    text-overflow:ellipsis;
+/*.text-box {
     width: 50%;
-    max-height: 200px;
-    min-height: 50px;
-    border: 2px;
+    padding: 5px;
+    border: 2px solid;
     border-color: black;
-    border-radius: 20px;
-    font-size: 16px;
-    color: #444444;
-    background-color: skyblue;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+    background-color: white;
     position: fixed;
     bottom: 100px;
     left: 50%;
     transform: translateX(-50%);
-    overflow: auto;
 }
 
 .submit-btn {
@@ -29,7 +26,137 @@
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
-}    
+}
+
 .submit-btn:hover {
         background-color: #0073e6;
     }
+*/
+
+#User-Input
+{
+    margin: 0%;
+    width: 50%;
+    padding: 5px;
+    border: 5px solid;
+    border-color: black;
+    border-style: outset;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+    background-color: transparent;
+    position: fixed;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+#User-Input input
+{
+    width: 98%;
+    background-color: transparent;
+    border: none;
+    margin: 0px;
+    margin: 0%;
+}
+
+#User-Input input:hover
+{
+    cursor:text;
+}
+
+#User-Input input:focus
+{
+    border: none;
+    outline: none;
+}
+
+#User-Input button
+{
+    text-align: center;
+    border-style: outset;
+    border-radius: 4px;
+    background-color: gray;
+    color: black;
+}
+
+#User-Input button:hover
+{
+    background-color: white;
+    border-style: inset;
+    cursor:auto;
+}
+
+.message
+{
+    font-family: "Comfortaa";
+    text-align: left;
+    animation-name: fade-in;
+    animation-duration: 1s;
+
+    max-width: 90%;
+    word-wrap:break-word;
+    word-break: break-all;
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.message p
+{
+    margin-left: 10px;
+}
+
+.message img
+{
+    margin-left: 5px;
+    float:left;
+    height: auto;
+
+    width: 20px;
+    height: 20px;
+}
+
+.message.prompt
+{
+    background-color: rgb(211, 211, 211);
+}
+
+.message.response
+{
+    background-color: rgb(233,233,233);
+}
+
+@keyframes fade-in
+{
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+#messages
+{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    max-height: 400px;
+    overflow-y: scroll;
+    scrollbar-color: black;   
+    display: flex;
+    flex-direction: column; 
+}
+
+#messages:empty
+{
+    visibility: hidden;
+}
+
+#chat
+{
+    height: 100%;
+    width: 100%;
+    background-color: radial-gradient(circle, white, lightblue, white);  
+}

@@ -1,9 +1,18 @@
 ﻿@page "/"
 @using ChatBot.Components
 
+<!-- <link href="Index.razor.css" rel="stylesheet" /> -->
 
-<h1>Chat Bot</h1>
+<style>
+    h1 
+    {
+        text-align: center;
+        color: black;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+</style>
 
-<div class="container">
+<div id="page">
+    <h1>GPT-3 Chat Bot</h1>
     <Chat />
 </div>
