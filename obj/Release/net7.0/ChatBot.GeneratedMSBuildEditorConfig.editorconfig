@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = ChatBot
+build_property.RootNamespace = ChatBot
+build_property.ProjectDir = /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/Components/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DaGF0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-90aeoa6tdr
+
+[/Users/daniel/Library/CloudStorage/OneDrive-McMasterUniversity/Portfolio/Projects/Chat Bot/ChatBot/ChatBot/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-kc9aeiymaq

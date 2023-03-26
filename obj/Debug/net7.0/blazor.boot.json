@@ -202,13 +202,13 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "ChatBot.dll": "sha256-8qwAYT8OK6q6TLtLacauidrprZsIIPuS5rbUqbj67TE="
+      "ChatBot.dll": "sha256-HnJYfRuKPMHXkNeQ802fYhUHts3REZ8dldd2ZZDIz2M="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ChatBot.pdb": "sha256-CKtyzKiFq1Ed8Wso5oe8jG01T1NAharY58\/U4jQMFq0="
+      "ChatBot.pdb": "sha256-20DhHT1e6E1gBbcxAi4WGhzkma\/kfkU0YQUznZ148ps="
     },
     "runtime": {
       "dotnet.7.0.4.asowo7u2f2.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

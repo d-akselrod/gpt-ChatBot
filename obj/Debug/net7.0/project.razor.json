@@ -9,43 +9,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1083105805,
-        "Kind": "Components.Component",
-        "Name": "ChatBot.App",
-        "AssemblyName": "ChatBot",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ChatBot.App",
-          "Common.TypeNamespace": "ChatBot",
-          "Common.TypeNameIdentifier": "App"
-        }
-      },
-      {
-        "HashCode": 1107277219,
-        "Kind": "Components.Component",
-        "Name": "ChatBot.App",
-        "AssemblyName": "ChatBot",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChatBot.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ChatBot.App",
-          "Common.TypeNamespace": "ChatBot",
-          "Common.TypeNameIdentifier": "App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 55347151,
         "Kind": "Components.Component",
         "Name": "ChatBot.MainLayout",
@@ -185,6 +148,43 @@
           "Common.TypeName": "ChatBot.Pages.Index",
           "Common.TypeNamespace": "ChatBot.Pages",
           "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1083105805,
+        "Kind": "Components.Component",
+        "Name": "ChatBot.App",
+        "AssemblyName": "ChatBot",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ChatBot.App",
+          "Common.TypeNamespace": "ChatBot",
+          "Common.TypeNameIdentifier": "App"
+        }
+      },
+      {
+        "HashCode": 1107277219,
+        "Kind": "Components.Component",
+        "Name": "ChatBot.App",
+        "AssemblyName": "ChatBot",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChatBot.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ChatBot.App",
+          "Common.TypeNamespace": "ChatBot",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

@@ -16,14 +16,16 @@
             {
                 <div class="message prompt">
                     <img src="https://static.vecteezy.com/system/resources/previews/007/296/443/original/user-icon-person-icon-client-symbol-profile-icon-vector.jpg" alt="human">
-                    <p>@messages[i]</p>
+                    <p id="message">@messages[i].message</p>
+                    <!--<p id="time">@messages[i].time</p>-->
                 </div>
             }
             else
             {
                 <div class="message response">
                     <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="chatGPT">
-                    <p>@messages[i]</p>
+                    <p id="message">@messages[i].message</p>
+                    <!--<p id="time">@messages[i].time</p>-->
                 </div>
             }
         }
@@ -36,21 +38,21 @@
     private string response { get; set; }
     private readonly ChatAPI chatAPI;
 
-    private List<string> prompts;
-    private List<string> responses;
-    private List<string> messages;
+    private List<Message> prompts;
+    private List<Message> responses;
+    private List<Message> messages;
 
     private bool busy;
 
     public Chat()
     {
-        prompts = new List<string>();
-        responses = new List<string>();
-        messages = new List<string>();
+        prompts = new List<Message>();
+        responses = new List<Message>();
+        messages = new List<Message>();
         busy = false;
 
-        string key = "";
-        string filePath = "key.txt";
+        string key = "abc";
+        string filePath = "Key.txt";
 
         if (File.Exists(filePath))
         {
@@ -58,6 +60,10 @@
             {
                 key = reader.ReadLine();
             }
+        }
+        else
+        {
+            key = "def";
         }
 
         chatAPI = new ChatAPI(key);
@@ -71,16 +77,16 @@
         }
         busy = true;
 
-        prompts.Add(prompt);
-        messages.Add(prompt);
+        prompts.Add(new Message(prompt,DateTime.Now));
+        messages.Add(new Message(prompt,DateTime.Now));
         prompt = "";
 
-        <!--response = await chatAPI.SendMessageAndGetResponse(prompt); -->
+        response = await chatAPI.SendMessageAndGetResponse(prompt);
         await Task.Delay(1000);
-        response = "My default response";
+        <!--response = "My default response";-->
 
-        responses.Add(response);
-        messages.Add(response);
+        responses.Add(new Message(response,DateTime.Now));
+        messages.Add(new Message(response,DateTime.Now));
         
         response = "My default response";
         
